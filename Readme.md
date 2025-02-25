@@ -1,3 +1,3 @@
-# Boileplate
+# Boilerplate
 
-starting boilerplate with [Next.js - 15.1.17](https://nextjs.org/)
+Starting boilerplate with [Next.js](https://nextjs.org/) v(15.1.17)
