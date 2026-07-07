@@ -6,7 +6,8 @@
     "lint:prettier": "prettier . --write",
     "lint:prettier:check": "prettier . --check",
     "lint:eslint": "eslint",
-    "lint:eslint:fix": "eslint --fix"
+    "lint:eslint:fix": "eslint --fix",
+    "lint:eslint:check": "next lint --dir ."
   },
   "dependencies": {
     "next": "16.2.10",
